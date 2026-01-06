@@ -6,6 +6,6 @@ Numerical features are transformed using log, Box-Cox, and Robust Scaling(due to
 Categorical features are encoded using One-Hot and frequency encoding.
 Feature selection is performed using correlation analysis.
 Dimensionality reduction is applied using PCA for efficiency.
-Models include Linear Regression, Ridge, Lasso, and SVR.
+Models include Linear Regression, Ridge, Lasso.
 Hyperparameter tuning is done using GridSearchCV.
 Model performance is evaluated using RMSE, MAE, R², and diagnostic plots.
